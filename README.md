@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying computer and information technology at UPenn. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for coding and computer science.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem making & solving.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching cloud-native application and distributed systems.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching cloud-native application and distributed systems.
 
 <p align="center">
   <a href="mailto:fbq0403@gmail.com"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
